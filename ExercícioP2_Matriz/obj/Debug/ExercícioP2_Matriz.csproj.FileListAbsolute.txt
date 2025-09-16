@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Matriz\bin\Debug\ExercícioP2_Matriz.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Matriz\bin\Debug\ExercícioP2_Matriz.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Matriz\bin\Debug\ExercícioP2_Matriz.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Matriz\obj\Debug\ExercícioP2_Matriz.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Matriz\obj\Debug\ExercícioP2_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Matriz\obj\Debug\ExercícioP2_Matriz.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Matriz\obj\Debug\ExercícioP2_Matriz.pdb

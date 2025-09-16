@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Vetor\bin\Debug\ExercícioP2_Vetor.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Vetor\bin\Debug\ExercícioP2_Vetor.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Vetor\bin\Debug\ExercícioP2_Vetor.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Vetor\obj\Debug\ExercícioP2_Vetor.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Vetor\obj\Debug\ExercícioP2_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Vetor\obj\Debug\ExercícioP2_Vetor.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP2_Vetor\obj\Debug\ExercícioP2_Vetor.pdb

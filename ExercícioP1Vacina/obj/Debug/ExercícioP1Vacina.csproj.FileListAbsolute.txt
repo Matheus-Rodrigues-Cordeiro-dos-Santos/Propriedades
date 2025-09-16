@@ -1,0 +1,2 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP1Vacina\obj\Debug\ExercícioP1Vacina.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ExercícioP1Vacina\obj\Debug\ExercícioP1Vacina.csproj.CoreCompileInputs.cache

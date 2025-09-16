@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Registro_de_Aluno_Data\bin\Debug\Registro_de_Aluno_Data.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Registro_de_Aluno_Data\bin\Debug\Registro_de_Aluno_Data.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Registro_de_Aluno_Data\bin\Debug\Registro_de_Aluno_Data.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Registro_de_Aluno_Data\obj\Debug\Registro_de_Aluno_Data.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Registro_de_Aluno_Data\obj\Debug\Registro_de_Aluno_Data.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Registro_de_Aluno_Data\obj\Debug\Registro_de_Aluno_Data.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Registro_de_Aluno_Data\obj\Debug\Registro_de_Aluno_Data.pdb

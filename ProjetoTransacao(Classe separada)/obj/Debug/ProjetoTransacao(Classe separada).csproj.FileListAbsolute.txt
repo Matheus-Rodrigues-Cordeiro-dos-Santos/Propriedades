@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ProjetoTransacao(Classe separada)\bin\Debug\ProjetoTransacao(Classe separada).exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ProjetoTransacao(Classe separada)\bin\Debug\ProjetoTransacao(Classe separada).exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ProjetoTransacao(Classe separada)\bin\Debug\ProjetoTransacao(Classe separada).pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ProjetoTransacao(Classe separada)\obj\Debug\ProjetoTransacao(Classe separada).csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ProjetoTransacao(Classe separada)\obj\Debug\ProjetoTransacao(Classe separada).csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ProjetoTransacao(Classe separada)\obj\Debug\ProjetoTransacao(Classe separada).exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\ProjetoTransacao(Classe separada)\obj\Debug\ProjetoTransacao(Classe separada).pdb
