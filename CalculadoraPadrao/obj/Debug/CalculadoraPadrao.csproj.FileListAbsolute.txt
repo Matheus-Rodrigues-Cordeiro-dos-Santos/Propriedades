@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\CalculadoraPadrao\bin\Debug\CalculadoraPadrao.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\CalculadoraPadrao\bin\Debug\CalculadoraPadrao.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\CalculadoraPadrao\bin\Debug\CalculadoraPadrao.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\CalculadoraPadrao\obj\Debug\CalculadoraPadrao.pdb

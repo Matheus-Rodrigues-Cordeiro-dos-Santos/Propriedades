@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Classes(Alternativa)\bin\Debug\Classes(Alternativa).exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Classes(Alternativa)\bin\Debug\Classes(Alternativa).exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Classes(Alternativa)\bin\Debug\Classes(Alternativa).pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Classes(Alternativa)\obj\Debug\Classes(Alternativa).csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Classes(Alternativa)\obj\Debug\Classes(Alternativa).csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Classes(Alternativa)\obj\Debug\Classes(Alternativa).exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Classes(Alternativa)\obj\Debug\Classes(Alternativa).pdb

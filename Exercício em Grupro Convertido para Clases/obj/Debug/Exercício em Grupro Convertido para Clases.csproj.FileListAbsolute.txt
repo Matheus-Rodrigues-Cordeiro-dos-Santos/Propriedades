@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício em Grupro Convertido para Clases\bin\Debug\Exercício em Grupro Convertido para Clases.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício em Grupro Convertido para Clases\bin\Debug\Exercício em Grupro Convertido para Clases.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício em Grupro Convertido para Clases\bin\Debug\Exercício em Grupro Convertido para Clases.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício em Grupro Convertido para Clases\obj\Debug\Exercício em Grupro Convertido para Clases.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício em Grupro Convertido para Clases\obj\Debug\Exercício em Grupro Convertido para Clases.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício em Grupro Convertido para Clases\obj\Debug\Exercício em Grupro Convertido para Clases.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício em Grupro Convertido para Clases\obj\Debug\Exercício em Grupro Convertido para Clases.pdb

@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício Classe Pessoa\bin\Debug\Exercício Classe Pessoa.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício Classe Pessoa\bin\Debug\Exercício Classe Pessoa.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício Classe Pessoa\bin\Debug\Exercício Classe Pessoa.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício Classe Pessoa\obj\Debug\Exercício1 Classe Pessoa.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício Classe Pessoa\obj\Debug\Exercício1 Classe Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício Classe Pessoa\obj\Debug\Exercício Classe Pessoa.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aulas Mat123\Propriedades\Exercício Classe Pessoa\obj\Debug\Exercício Classe Pessoa.pdb
